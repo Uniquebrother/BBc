@@ -22,5 +22,5 @@ Tools Setup & Run :
 
 $ clear && ls && cd BBc && ls
 
-$ python2 bbc.py
+$ python bbc.py
 
