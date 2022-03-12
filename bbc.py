@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Males gw encrypt Tod jika mau recode, recode aja
-# Tapi ngotak dikit jangan Lo jual belikan sc ini kontol
-# Code by YayanXD
-# Created 05-07-2020
+
+
+# Code by Fuy4d N1loy
+# Created 05-03-2022
 # My facebook (https://m.facebook.com/pg/Cyber.POlice.00001)
 
 import os, sys, re, time, json, random, requests
